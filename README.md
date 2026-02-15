@@ -120,3 +120,12 @@ It is the **smallest model that fully explains the data**.
 MIT License
 
 ---
+
+## 🤖 AI Assistance
+
+This project documentation and experimental design discussions were assisted by large language models, including:
+
+- GPT-5.2 (OpenAI)
+- Gemini 3 Pro (Google)
+
+All experimental hypotheses, implementations, and interpretations were reviewed and validated by the author.
